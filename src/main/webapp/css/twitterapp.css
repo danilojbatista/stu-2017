@@ -1,0 +1,89 @@
+body {
+    overflow:hidden;
+    padding-bottom: 50px;
+}
+
+
+#twitterImg{
+
+    float: right;
+}
+
+#twitterTag{
+	width: 50%;
+	float: left;
+}
+
+#facebookTag{
+	width: 50%;
+	float:left;
+	position: relative;
+}
+
+#facebookTag div{
+	position: absolute;
+	right: 0;
+}
+
+#appHeader{
+	overflow: hidden;
+}
+
+#appHeader h3{
+	display: inline;
+	vertical-align: middle;
+}
+
+#headerDes{
+    font-weight: bold;
+
+}
+
+.tweetImg{
+    float: left;
+
+}
+
+.tweetDate{
+    float: right;
+    font-size: 18px;
+    color: grey;
+}
+
+.tweetCompleteName{
+
+    font-weight: bold;
+}
+
+.tweetName{
+    float: left;
+    font-size: 16px;
+    margin-left: 5px;
+    color: grey;
+
+}
+
+.tweetMessage{
+    font-size: 16px;
+    margin-top: -5px;
+}
+
+.bottomLine{
+    height: 60px;
+    border-color: white;
+
+}
+
+.bottomImg{
+    float: right;
+}
+
+.brand {
+	position: absolute;
+    left: 50%;
+    margin-left: -197.5px !important;  /* 50% of your logo width */
+    display: block;
+}
+
+
+

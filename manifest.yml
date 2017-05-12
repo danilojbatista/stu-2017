@@ -1,0 +1,7 @@
+---
+applications:
+- name: stu_2016
+  memory: 512M
+  host: stu_2016_test
+  domain: mybluemix.net
+  instances: 1
